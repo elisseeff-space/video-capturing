@@ -1,5 +1,9 @@
 # video-capturing
 
+#--- Python install ---
+
+https://firstvds.ru/technology/ustanovka-python-39-i-virtualnogo-okruzheniya-venv#installdebian
+
 https://pypi.org/project/onvif-gui/#description
 
 https://github.com/mvantellingen/python-zeep
